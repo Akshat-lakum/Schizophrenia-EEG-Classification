@@ -11,8 +11,6 @@ Schizophrenia-EEG-Classification/
 │   ├── model_1_ml_manual.py  
 │   ├── model_2_dl_manual.py  
 │   ├── model_3_dl_from_ml.py
-│   └── scz-for-eeg (2).ipynb 
-│
 ├── data/  
 │   ├── demographic.csv  
 │   ├── 18.csv  
