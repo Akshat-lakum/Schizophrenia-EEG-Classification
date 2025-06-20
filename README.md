@@ -6,13 +6,13 @@ This project contains three sub-models designed to classify EEG data for schizop
 
 ## 📁 Project Structure
 
-Schizophrenia-EEG-Classification/  
-├── models/  
+Schizophrenia-EEG-Classification  
+├── models  
 │   ├── model_1_ml_manual.py  
 │   ├── model_2_dl_manual.py  
 │   ├──  model_3_dl_from_ml.py  
-│   └── scz-for-eeg (2).ipynb
-├── data/  
+│   └── scz-for-eeg (2).ipynb  
+├── data  
 │   ├── demographic.csv  
 │   ├── 18.csv  
 │   └── README.md  
@@ -24,12 +24,12 @@ Schizophrenia-EEG-Classification/
 
 ### 📄 Descriptions
 
-- `models/`  
+- `models`  
   - `model_1_ml_manual.py`: Manual feature extraction + ML classification  
   - `model_2_dl_manual.py`: Manual feature extraction + DL classification  
   - `model_3_dl_from_ml.py`: ML-based feature extraction + DL classification  
 
-- `data/`  
+- `data`  
   - `demographic.csv`: EEG metadata file (user must provide)  
   - `18.csv`: EEG signal sample file (user must provide)  
   - `README.md`: Instructions on what data files are needed and where to place them  
