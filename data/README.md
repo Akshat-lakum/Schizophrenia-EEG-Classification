@@ -16,7 +16,7 @@ You must download the dataset manually or use Kaggle CLI and place the files und
 
 Expected file structure inside the `data/` folder:
 
-data/
+data  
 └── button-tone-sz  
 ├── columnLabels.csv  
 ├── ERPdata.csv  
